@@ -15,7 +15,7 @@ except Exception as e:
     st.stop()
 
 # Title
-st.title("💰 Salary Prediction App")
+st.title("Salary Prediction App")
 
 st.write("Enter employee details to predict salary")
 
